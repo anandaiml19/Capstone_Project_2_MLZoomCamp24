@@ -8,7 +8,7 @@ Quora Question-Answer Dataset Link:  https://huggingface.co/datasets/toughdata/q
 Parquet file format of dataset link: https://huggingface.co/datasets/quora/tree/refs%2Fconvert%2Fparquet/default/train
 
 
-The datset is preprocessed and the the sentence transformer model distiluse-base-multilingual-cased-v1 is used for the creation of the embeddings of the corpus dataset. 
+The datset is preprocessed and the the sentence transformer model distiluse-base-multilingual-cased-v1 is used for the creation of the embeddings of the corpus dataset. Based on the input text from the user the present model is capable to provide similar words or sentennces. Also based on the input question the developed recommedation system can deliver similar questions from the corpus data.
 
 
 
