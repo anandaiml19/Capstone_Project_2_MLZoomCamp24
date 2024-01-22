@@ -10,7 +10,14 @@ Parquet file format of dataset link: https://huggingface.co/datasets/quora/tree/
 
 The datset is preprocessed and the the sentence transformer model distiluse-base-multilingual-cased-v1 is used for the creation of the embeddings of the corpus dataset. Based on the input text from the user the present model is capable to provide similar words or sentennces. Also based on the input question the developed recommedation system can deliver similar questions from the corpus data.
 
+Input Query:
+
 ![alt text](https://github.com/anandaiml19/Capstone_Project_2_MLZoomCamp24/blob/main/Query1.PNG)
+
+Semantic Results:
+
+![alt text]()
+
 
 
 
