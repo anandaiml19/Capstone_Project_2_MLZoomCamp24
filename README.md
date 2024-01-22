@@ -16,7 +16,7 @@ Input Query:
 
 Semantic Results:
 
-![alt text]()
+![alt text](https://github.com/anandaiml19/Capstone_Project_2_MLZoomCamp24/blob/main/Results-semantic-search.PNG)
 
 
 
